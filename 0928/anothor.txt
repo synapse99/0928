@@ -1,0 +1,7 @@
+This 
+text
+comes
+a
+diffrent
+text
+file.
